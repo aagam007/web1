@@ -1,0 +1,34 @@
+body {
+  background-color: #4FD3C4;
+}
+
+
+hr {
+  background-color: white;
+  border-style: none;
+  height: 2px;
+}
+
+h1 {
+  color: #93FFD8;
+}
+
+h3 {
+  color: #93FFD8;
+}
+
+p {
+  color: #7DEDFF;
+}
+
+li {
+  color: #7DEDFF;
+}
+
+td {
+  color: #7DEDFF;
+}
+
+label {
+  color: #7C83FD;
+}
