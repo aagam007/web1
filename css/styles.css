@@ -1,5 +1,7 @@
+/********************************Tag Selectors*******************************/
+
 body {
-  background-color: #4FD3C4;
+  background-color: black;
 }
 
 
@@ -31,4 +33,38 @@ td {
 
 label {
   color: #7C83FD;
+}
+
+a {
+  color: #00FFF0;
+  text-decoration: none;
+  transition: color 1s;
+}
+
+a:hover {
+  color: #10EAF0;
+}
+
+textarea {
+  background-color: #7C83FD;
+  border-style: none;
+}
+
+/********************************Class Selectors*****************************/
+
+.contacter {
+  background-color: #7DEDFF;
+  border-style: none;
+}
+
+.submit1{
+  background-color: #93FFD8;
+  border-style: none;
+  color: #00B4D8;
+}
+
+/********************************ID Selectors********************************/
+
+#circular {
+  border-radius: 100%;
 }
